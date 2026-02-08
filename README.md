@@ -8,17 +8,19 @@ I'm a compsci undergrad at Queen's interested in cybersecurity, bioinformatics, 
   - live pose estimation
  
 - **cybersecurity**
-  - learning C, assembly, and legacy systems to understand how stuff breaks
-  - interested in defensive tooling and vulnerabilities
+  - learning C, assembly, and legacy systems
+  - experimenting with simple C vulnerabilities 
+  - reverse engineering exploits (👀)
+  - every day trying not to b a script kid </3
 
  - **just 4 fun**
-   - hackathons with friends
+   - hackathons with friends (QHacks!)
    - making cute indie sites
    - stupid chrome extensions
   
 ### stuff I use
 - **comfortable**: Python, Java, HTML/CSS
-- **learning**: C, Assembly, COBOL, Bash
+- **learning**: C, Assembly, COBOL, Bash (systems-level understanding and legacy software analysis)
 - **tools**: TensorFlow, keras, MediaPipe, pywebview, epitope-predict
 
 I try to cite my sources & tutorials and will update READMEs as I go along! Reach out at **roachc006@gmail.com** if you wanna talk :D 
