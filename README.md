@@ -1,8 +1,6 @@
 ## hi, i'm cait! 🪳
 I'm a compsci undergrad at Queen's interested in cybersecurity, bioinformatics, ML, and web dev. This account is both a portfolio and a learning log: I keep finished projects and experimental repos here.
 
-[![Cait's GitHub stats](https://github-readme-stats.vercel.app/api?username=caitroach)](https://github.com/anuraghazra/github-readme-stats)
-
 ### stuff I do
 - **computational biology + ML**
   - computer vision for diagnostics
