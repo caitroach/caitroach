@@ -1,4 +1,4 @@
-## hi, i'm cait! 🪳
+## hi, i'm cait! 🐛
 I'm a compsci undergrad at Queen's interested in cybersecurity, bioinformatics, ML, and web dev. This account is both a portfolio and a learning log: I keep finished projects and experimental repos here.
 
 ### stuff I do
