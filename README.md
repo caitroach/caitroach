@@ -20,7 +20,7 @@ I'm a compsci undergrad at Queen's interested in cybersecurity, bioinformatics, 
   
 ### stuff I use
 - **comfortable**: Python, Java, HTML/CSS
-- **learning**: C, Assembly, COBOL, Bash (systems-level understanding and legacy software analysis)
+- **learning**: C, Assembly, COBOL, Bash (systems-level understanding and legacy software analysis). I'm also learning Prolog for a cognitive science course which is kinda random
 - **tools**: TensorFlow, keras, MediaPipe, pywebview, epitope-predict
 
 I try to cite my sources & tutorials and will update READMEs as I go along! Reach out at **roachc006@gmail.com** if you wanna talk :D 
