@@ -10,17 +10,17 @@ I'm a compsci undergrad at Queen's interested in cybersecurity, bioinformatics, 
 - **cybersecurity**
   - learning C, assembly, and legacy systems
   - experimenting with simple C vulnerabilities 
-  - reverse engineering exploits (👀)
-  - every day trying not to b a script kid </3
+  - reverse engineering basic exploits
 
  - **just 4 fun**
    - hackathons with friends (QHacks!)
+   - doing CTFs!!
    - making cute indie sites
-   - stupid chrome extensions
+   - designing highly stupid chrome extensions
   
 ### stuff I use
 - **comfortable**: Python, Java, HTML/CSS
-- **learning**: C, Assembly, COBOL, Bash (systems-level understanding and legacy software analysis). I'm also learning Prolog for a cognitive science course which is kinda random
+- **learning**: C, Assembly, COBOL, Bash. I'm also learning Prolog for a cognitive science course which is kinda random but worth mentioning ig
 - **tools**: TensorFlow, keras, MediaPipe, pywebview, epitope-predict
 
 I try to cite my sources & tutorials and will update READMEs as I go along! Reach out at **roachc006@gmail.com** if you wanna talk :D 
