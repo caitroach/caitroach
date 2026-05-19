@@ -1,7 +1,7 @@
 ## hi, i'm cait! 🐛
 I'm a compsci undergrad at Queen's minoring in mathematics. im interested in cybersecurity, bioinformatics, ML, and web dev. This account is both a portfolio and a learning log: I keep finished projects and experimental repos here. yay!!
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/donut_by_repo.png)
 
 ### stuff I do
 **computational biology + ML**
