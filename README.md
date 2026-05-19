@@ -1,7 +1,7 @@
 ## hi, i'm cait! 🐛
 I'm a compsci undergrad at Queen's minoring in mathematics. im interested in cybersecurity, bioinformatics, ML, and web dev. This account is both a portfolio and a learning log: I keep finished projects and experimental repos here. yay!!
 
-![Language Stats](stats/donut_by_repos.png)
+<img src="stats/donut_by_repos.png" width="300">
 
 ### stuff I do
 **computational biology + ML**
@@ -19,10 +19,5 @@ I'm a compsci undergrad at Queen's minoring in mathematics. im interested in cyb
    - doing CTFs!!
    - making cute indie sites
    - designing highly stupid chrome extensions
-  
-### stuff I use
-**comfortable**: Python, Java, HTML/CSS/JS
-**learning**: C, Assembly, COBOL, Bash. I'm also learning Prolog for a cognitive science course which is kinda random but worth mentioning i guess...
-**tools**: TensorFlow, keras, MediaPipe, pywebview, epitope-predict.....andmore....
 
 I try to cite my sources & tutorials and will update READMEs as I go along! Reach out at **roachc006@gmail.com** if you wanna talk :D 
