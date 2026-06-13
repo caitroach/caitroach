@@ -1,23 +1,24 @@
-## hi, i'm cait! 🐛
-I'm a compsci undergrad at Queen's minoring in mathematics. im interested in cybersecurity, bioinformatics, ML, and web dev. This account is both a portfolio and a learning log: I keep finished projects and experimental repos here. yay!!
+hi! i'm cait. i'm studying computer science and mathematics at queen's. i have a wide range of interests, including web dev, ML, cryptography, graph theory, bioinformatics, and cybersecurity. this account is both a portfolio and a learning log - i keep finished research projects and janky experimental repos here, and i try to commit something every day. 
 
-<img src="stats/donut_by_repos.png" width="800">
+### stuff i do
+**computational biology+ML**
+- computer vision for pneumonia diagnostics
+- neural nets for cancer immunotherapy design 
+-  live pose estimation for orthopedics
 
-### stuff I do
-**computational biology + ML**
-  - computer vision for diagnostics
-  - neural nets for immunotherapy design
-  - live pose estimation
- 
-**cybersecurity**
-  - learning C, assembly, and legacy systems
-  - experimenting with simple C vulnerabilities 
-  - reverse engineering basic exploits
+**web dev**
+- mainainence of QMIND.ca
+- highly stupid chrome extensions 
+- designing my cute indie site https://cait.lol
 
-  **have fun**
-   - hackathons with friends (QHacks!)
-   - doing CTFs!!
-   - making cute indie sites
-   - designing highly stupid chrome extensions
+**cybersec**
+- simple C exploits 
+- learning low-level languages 
+- doing CTFs yay!! 
 
-I try to cite my sources & tutorials and will update READMEs as I go along! Reach out at **roachc006@gmail.com** if you wanna talk :D 
+i try to cite my sources and will update READMEs as i go along. reach out if you want to collab. 
+
+## fun facts 
+- im a pretentious fedora user
+- i have two bunnies named bill and chimp
+- i play ice hockey and have broken 3 of my fingers #goalie
