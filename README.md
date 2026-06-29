@@ -1,5 +1,5 @@
 ## hi! i'm cait.
-i'm studying computer science and mathematics at queen's. i have a wide range of interests, including web dev, ML, cryptography, graph theory, bioinformatics, and cybersecurity. this account is both a portfolio and a learning log - i keep finished research projects and janky experimental repos here, and i try to commit something every day. im serious about maintaining my green squares.
+i'm studying computer science and mathematics at queen's. i have a wide range of interests, including web dev, ML, cryptography, graph theory, bioinformatics, and cybersecurity. this account is both a portfolio and a learning log - i keep finished research projects and janky experimental repos here, and i try to commit something every day. im serious about maintaining my green squares they mean everything 2 me...
 
 ### stuff i do
 **computational biology+ML**
