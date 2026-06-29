@@ -12,10 +12,11 @@ i'm studying computer science and mathematics at queen's. i have a wide range of
 - highly stupid chrome extensions 
 - the defunct and ugly https://cait.lol
 
-**cybersec**
+**cybersec + math**
 - simple C exploits 
 - learning low-level languages 
-- doing CTFs yay!! 
+- doing CTFs yay!!
+- network theory + graph theory rsrch at the Graph Lab @ Queen's
 
 i try to cite my sources and will update READMEs as i go along. reach out if you want to talk tech :P 
 
