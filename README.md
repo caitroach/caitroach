@@ -8,7 +8,7 @@ i'm studying computer science and mathematics at queen's. i have a wide range of
 -  live pose estimation for orthopedics
 
 **web dev**
-- mainainence of QMIND.ca (checkitout!!!)
+- maintenance of QMIND.ca (checkitout!!!)
 - highly stupid chrome extensions 
 - the defunct and ugly https://cait.lol
 
