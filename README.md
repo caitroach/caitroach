@@ -11,6 +11,7 @@ i'm studying computer science and mathematics at queen's. i have a wide range of
 - maintenance of QMIND.ca (checkitout!!!)
 - highly stupid chrome extensions 
 - the defunct and ugly https://cait.lol
+- working on a forked version of AdBlock (my opensource queen)
 
 **cybersec + math**
 - simple C exploits 
