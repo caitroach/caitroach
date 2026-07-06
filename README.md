@@ -14,7 +14,7 @@ i'm studying computer science and mathematics at queen's. i have a wide range of
 - working on a forked version of AdBlock (my opensource queen)
 
 **cybersec + math**
-- simple C exploits 
+- systems programming & exploit development 
 - learning low-level languages 
 - doing CTFs yay!!
 - network theory + graph theory rsrch at the Graph Lab @ Queen's
