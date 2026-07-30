@@ -18,6 +18,7 @@ i'm studying computer science and mathematics at queen's. i have a wide range of
 - learning low-level languages 
 - doing CTFs yay!!
 - network theory + graph theory rsrch at the Graph Lab @ Queen's
+- jailbreaking and ricing old devices like gaming consoles and e-readers (does this count? my kindle is suffering)
 
 i try to cite my sources and will update READMEs as i go along. reach out if you want to talk tech :P 
 
