@@ -1,5 +1,7 @@
 ## hi! i'm cait.
-i'm studying computer science and mathematics at queen's. i have a wide range of interests, including web dev, ML, cryptography, graph theory, bioinformatics, and cybersecurity. this account is both a portfolio and a learning log - i keep finished research projects and janky experimental repos here, and i try to commit something every day. im serious about maintaining my green squares they mean everything 2 me...
+i'm a computer science student at queen's university specializing in AI with a minor in mathematics. i'm interested in machine learning, cybersecurity, graph algorithms, and systems programming.
+
+this github is both a portfolio and a learning log. i document finished research projects alongside experimental repos where i learn by building!
 
 ### stuff i do
 **computational biology+ML**
