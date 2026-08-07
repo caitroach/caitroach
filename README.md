@@ -1,5 +1,5 @@
 ## hi! i'm cait.
-i'm a computer science student at queen's university specializing in AI with a minor in mathematics. i'm interested in machine learning, cybersecurity, graph algorithms, and systems programming.
+i'm a computer science student at queen's university specializing in AI with a minor in mathematics. i'm interested in machine learning, cybersecurity, graph algorithms, and systems programming. im a research assistant at the Graph Lab at Queen's, where I work with Dr. Erin Meger on pursuit-evasion theory. 
 
 this github is both a portfolio and a learning log. i document finished research projects alongside experimental repos where i learn by building!
 
@@ -11,7 +11,7 @@ this github is both a portfolio and a learning log. i document finished research
 
 **web dev**
 - maintenance of QMIND.ca (checkitout!!!)
-- highly stupid chrome extensions 
+- making chrome extensions
 - the defunct and ugly https://cait.lol
 - working on a forked version of Ublock (my opensource queen)
 
@@ -19,7 +19,6 @@ this github is both a portfolio and a learning log. i document finished research
 - systems programming & exploit development 
 - learning low-level languages 
 - doing CTFs yay!!
-- network theory + graph theory rsrch at the Graph Lab @ Queen's
 - jailbreaking and ricing old devices like gaming consoles and e-readers (does this count? my kindle is suffering)
 
 i try to cite my sources and will update READMEs as i go along. reach out if you want to talk tech :P 
