@@ -17,7 +17,7 @@ this github is both a portfolio and a learning log. i document finished research
 
 **cybersec + math**
 - systems programming & exploit development 
-- learning low-level languages 
+- bug hunting
 - doing CTFs yay!!
 - jailbreaking and ricing old devices like gaming consoles and e-readers (does this count? my kindle is suffering)
 
