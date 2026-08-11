@@ -4,22 +4,11 @@ i'm a computer science student at queen's university specializing in AI with a m
 this github is both a portfolio and a learning log. i document finished research projects alongside experimental repos where i learn by building!
 
 ### stuff i do
-**computational biology+ML**
-- computer vision for pneumonia diagnostics
-- neural nets for cancer immunotherapy design 
--  live pose estimation for orthopedics
+- **computational biology+ML**: computer vision for pneumonia diagnostics, neural nets for cancer immunotherapy design, live pose estimation for orthopedics, statistical analysis for cancer genomics
 
-**web dev**
-- maintenance of QMIND.ca (checkitout!!!)
-- making chrome extensions
-- the defunct and ugly https://cait.lol
-- working on a forked version of Ublock (my opensource queen)
+- **web dev**: maintenance of QMIND.ca (checkitout!!!), making chrome extensions, the defunct and ugly https://cait.lol, working on a forked version of Ublock (my opensource queen)
 
-**cybersec + math**
-- systems programming & exploit development 
-- bug hunting
-- doing CTFs yay!!
-- jailbreaking and ricing old devices like gaming consoles and e-readers (does this count? my kindle is suffering)
+- **cybersec + math**: systems programming & exploit development, bug hunting, doing CTFs yay!! + jailbreaking and ricing old devices like gaming consoles and e-readers (does this count? my kindle is suffering)
 
 i try to cite my sources and will update READMEs as i go along. reach out if you want to talk tech :P 
 
