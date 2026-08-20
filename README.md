@@ -1,5 +1,5 @@
 ## hi! i'm cait.
-i'm a computer science student at queen's university specializing in AI with a minor in mathematics. i work on computational biology for healthcare, graph theory, and machine learning. im a research assistant at the Graph Lab at Queen's, where I work with Dr. Erin Meger on pursuit-evasion theory. 
+i'm a computer science student at queen's university specializing in AI with a minor in mathematics. i work on graph theory, machine learning, and computational biology for healthcare. im a research assistant at the Graph Lab at Queen's, where I work with Dr. Erin Meger on pursuit-evasion theory. 
 
 ### stuff i do
 - **computational biology+ML**: computer vision for pneumonia diagnostics, neural nets for cancer immunotherapy design, live pose estimation for orthopedics, statistical analysis for cancer genomics
